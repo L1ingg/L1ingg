@@ -5,16 +5,8 @@ Welcome to my GitHub profile! 🚀
 
 ## 👨‍💻 About Me:
 - Name: **Sasha**  
-- Age: **17**  
+- Age: **18**  
 - Always learning and exploring new technologies. 🌱  
-
----
-
-## 📊 My GitHub Stats:
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=l1ng-l&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&rank_icon=github"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l1ng-l&layout=compact&theme=dracula&hide_border=true&langs_count=4"/>
-</div>
 
 ---
 
